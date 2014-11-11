@@ -120,3 +120,6 @@ By default, don't show NS, MX, SOA, unless `-a` flag is given.
 
 
 FIXME: TTL
+
+> "So i was tied to the bed in a telletubby costume and then she breaks out the cheese grater and i was like "holy shit, it's Christmas!" William, at the White Horse in Seattle
+
